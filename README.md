@@ -1,4 +1,3 @@
-# Time-Series-Modeling-Project
 # Predicting Real Estate Market Trends with Time Series Analysis
 
 ![](https://blogs.sap.com/wp-content/uploads/2019/10/Fig-00-scaled.jpg)
