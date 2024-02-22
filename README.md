@@ -1,6 +1,6 @@
 # Predicting Real Estate Market Trends with Time Series Analysis
 
-![](https://blogs.sap.com/wp-content/uploads/2019/10/Fig-00-scaled.jpg)
+![](C:\Users\Wanjiru\Documents\DSC-Course-Materials\phase-4\Time Series Modeling Project\image.jpg)
 
 ## Introduction
 In 2022, the U.S. real estate industry reached a valuation of USD 3.75 trillion and was projected to grow annually by 5.2% from 2022 to 2030, driven by a growing U.S. population, offering substantial investment prospects. Effective risk management and informed investment decisions are essential for success in this dynamic market. 
